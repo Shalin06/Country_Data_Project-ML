@@ -1,0 +1,55 @@
+Developing
+['Albania' 'Algeria' 'Antigua and Barbuda' 'Argentina' 'Armenia'
+ 'Azerbaijan' 'Bahamas' 'Bahrain' 'Bangladesh' 'Barbados' 'Belarus'
+ 'Belize' 'Bhutan' 'Bolivia' 'Bosnia and Herzegovina' 'Brazil' 'Bulgaria'
+ 'Cambodia' 'Cape Verde' 'Chile' 'China' 'Colombia' 'Costa Rica' 'Croatia'
+ 'Czech Republic' 'Dominican Republic' 'Ecuador' 'Egypt' 'El Salvador'
+ 'Estonia' 'Fiji' 'Georgia' 'Grenada' 'Guatemala' 'Guyana' 'Hungary'
+ 'India' 'Indonesia' 'Iran' 'Jamaica' 'Jordan' 'Kazakhstan'
+ 'Kyrgyz Republic' 'Latvia' 'Lebanon' 'Libya' 'Lithuania' 'Macedonia, FYR'
+ 'Malaysia' 'Maldives' 'Mauritius' 'Micronesia, Fed. Sts.' 'Moldova'
+ 'Mongolia' 'Montenegro' 'Morocco' 'Myanmar' 'Nepal' 'Oman' 'Panama'
+ 'Paraguay' 'Peru' 'Philippines' 'Poland' 'Romania' 'Russia' 'Samoa'
+ 'Saudi Arabia' 'Serbia' 'Seychelles' 'Slovak Republic' 'Solomon Islands'
+ 'Sri Lanka' 'St. Vincent and the Grenadines' 'Suriname' 'Tajikistan'
+ 'Thailand' 'Tonga' 'Tunisia' 'Turkey' 'Turkmenistan' 'Ukraine' 'Uruguay'
+ 'Uzbekistan' 'Vanuatu' 'Venezuela' 'Vietnam']
+
+
+Under Developed
+['Afghanistan' 'Angola' 'Benin' 'Botswana' 'Burkina Faso' 'Burundi'
+ 'Cameroon' 'Central African Republic' 'Chad' 'Comoros' 'Congo, Dem. Rep.'
+ 'Congo, Rep.' "Cote d'Ivoire" 'Equatorial Guinea' 'Eritrea' 'Gabon'
+ 'Gambia' 'Ghana' 'Guinea' 'Guinea-Bissau' 'Haiti' 'Iraq' 'Kenya'
+ 'Kiribati' 'Lao' 'Lesotho' 'Liberia' 'Madagascar' 'Malawi' 'Mali'
+ 'Mauritania' 'Mozambique' 'Namibia' 'Niger' 'Nigeria' 'Pakistan' 'Rwanda'
+ 'Senegal' 'Sierra Leone' 'South Africa' 'Sudan' 'Tanzania' 'Timor-Leste'
+ 'Togo' 'Uganda' 'Yemen' 'Zambia']
+
+
+Fully Developed
+['Luxembourg' 'Malta' 'Singapore']
+
+
+Developed
+['Australia' 'Austria' 'Belgium' 'Brunei' 'Canada' 'Cyprus' 'Denmark'
+ 'Finland' 'France' 'Germany' 'Greece' 'Iceland' 'Ireland' 'Israel'
+ 'Italy' 'Japan' 'Kuwait' 'Netherlands' 'New Zealand' 'Norway' 'Portugal'
+ 'Qatar' 'Slovenia' 'South Korea' 'Spain' 'Sweden' 'Switzerland'
+ 'United Arab Emirates' 'United Kingdom' 'United States']
+
+
+<---------------------------------- Furthur classification of under developed countries ---------------------------->
+
+Moderately Underdeveloped
+['Botswana' 'Equatorial Guinea' 'Gabon' 'Iraq' 'Namibia' 'South Africa']
+
+Severely Underdeveloped
+['Afghanistan' 'Angola' 'Benin' 'Burkina Faso' 'Burundi' 'Cameroon'
+ 'Central African Republic' 'Chad' 'Comoros' 'Congo, Dem. Rep.'
+ 'Congo, Rep.' "Cote d'Ivoire" 'Eritrea' 'Gambia' 'Ghana' 'Guinea'
+ 'Guinea-Bissau' 'Haiti' 'Kenya' 'Kiribati' 'Lao' 'Lesotho' 'Liberia'
+ 'Madagascar' 'Malawi' 'Mali' 'Mauritania' 'Mozambique' 'Niger' 'Nigeria'
+ 'Pakistan' 'Rwanda' 'Senegal' 'Sierra Leone' 'Sudan' 'Tanzania'
+ 'Timor-Leste' 'Togo' 'Uganda' 'Yemen' 'Zambia']
+
